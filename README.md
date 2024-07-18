@@ -25,6 +25,6 @@
 
 ### 5. Roller
 
-<img src="Images/roller.png"># Projects
+<img src="Images/roller.png">
 
 
